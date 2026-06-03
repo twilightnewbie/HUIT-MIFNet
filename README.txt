@@ -70,4 +70,4 @@ The HUIT-MGV Dataset : https://drive.google.com/drive/folders/1A5OYycscantQX-BD2
     ```
 
 ---
-
+Author: To Duy Tai, Phan Van Khai
