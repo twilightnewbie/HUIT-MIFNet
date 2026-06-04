@@ -6,7 +6,7 @@ HUIT-RTID is a lightweight, real-time multimodal biometric framework designed to
 * Proposed Method: HUIT-MIFNet (HUIT Multimodal Identification Fusion Network).
 * Dataset: HUIT-MGV Dataset (HUIT Multimodal Gait-Voice Dataset).
 * System Core: HUIT-RTID System (HUIT Real-Time Identification System).
-* Performance: Achieves 91.3% real-time accuracy and maintains 10 FPS on consumer-grade CPUs.
+* Performance: Achieves 91.3% real-time accuracy 
 
 ---
 
